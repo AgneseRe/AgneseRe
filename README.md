@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- HEADER -->
 
-<!--
-**AgneseRe/AgneseRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there! 🚀</h1>
+<h1 align="center">I'm Agnese Re 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<b>Machine Learning | Computer Vision | Multimodal AI</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/agnese-re/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:agnesere43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<!-- PROFILE -->
+# About Me
+- 🔬 Focused on Computer Vision, Multimodal Learning and Vision-Language Models.
+- 🤖 Exploring Multimodal Large Language Models (MLLMs) and Generative AI.
+- 👨‍🏫 Instructor in professional training courses, teaching Computer Science and Programming.
+- 💻 Passionate about developing AI solutions, conducting research and sharing technical knowledge.
+
+# Research Interests
+- Computer Vision and Visual Representation Learning
+- Object Detection and Image Segmentation
+- Multimodal Large Language Models (MLLMs)
+- Generative AI and Diffusion Models
+
+# Programming Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,r,c,java,js,bash,html,css,react,mongodb,mysql,git,github,docker,gcp,linux,vscode,latex&perline=10)](https://skillicons.dev)
+
+<p align="center">
+<i>Always curious, always learning, always building. 🚀</i>
+</p>
