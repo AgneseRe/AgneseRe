@@ -19,19 +19,13 @@
 
 <!-- PROFILE -->
 # About Me
-- 🔬 Focused on Computer Vision, Multimodal Learning and Vision-Language Models.
-- 🤖 Exploring Multimodal Large Language Models (MLLMs) and Generative AI.
-- 👨‍🏫 Instructor in professional training courses, teaching Computer Science and Programming.
-- 💻 Passionate about developing AI solutions, conducting research and sharing technical knowledge.
+- 🔬 Focused on Computer Vision, Multimodal Learning and Vision-Language Models
+- 🤖 Exploring Multimodal Large Language Models (MLLMs) and Generative AI
+- 👨‍🏫 Instructor in professional training courses, teaching Computer Science and Programming
+- 💻 Passionate about developing AI solutions, conducting research and sharing technical knowledge
 
-# Research Interests
-- Computer Vision and Visual Representation Learning
-- Object Detection and Image Segmentation
-- Multimodal Large Language Models (MLLMs)
-- Generative AI and Diffusion Models
-
-# Programming Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,r,c,java,js,bash,html,css,react,mongodb,mysql,git,github,docker,gcp,linux,vscode,latex&perline=10)](https://skillicons.dev)
+# Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,c,java,html,css,js,react,mongodb,mysql,git,docker,gcp,linux)](https://skillicons.dev)
 
 <p align="center">
 <i>Always curious, always learning, always building. 🚀</i>
