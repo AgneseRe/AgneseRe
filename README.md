@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05032&center=true&vCenter=true&width=500&lines=Computer+Engineer;Instructor+%26+Tech+Educator;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineer;Instructor+%26+Tech+Educator;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </div>
 
-# 👋 Hello there, I'm <a href="https://github.com/AgneseRe">Agnese</a>!
+# 👋 Hello there, I'm <a href="https://github.com/AgneseRe">Agnese Re</a>!
 
 I am an ever-curious Computer Engineer on a mission to make technology accessible, exciting, and fun. I currently work as a vocational training instructor, which basically means I spend my days turning complex tech concepts into engaging learning experiences (and low-key learning just as much from my students in return!). And when I’m not teaching or geeking out over Artificial Intelligence, I run a completely different set of algorithms like `cook_something_good()` or `go_outside_and_get_sunlight()`.
 
