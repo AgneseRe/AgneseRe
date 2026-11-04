@@ -17,6 +17,8 @@ Alongside my research side, I have a massive passion for tech education and know
 
 *The tools I use to build, teach, and occasionally debug for hours.* 🛠️
 
+> **Fun fact:** Yes, my profile picture is a pigeon. It started as a joke during a course, and by now, it has effectively become my official mascot!
+
 # 📫 Let's Connect & Chat
 <div align="left">
   <a href="https://www.linkedin.com/in/agnese-re/" target="_blank">
