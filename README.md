@@ -10,14 +10,14 @@ My journey sits at the intersection of **Computer Engineering and Education**. M
 
 Alongside my research side, I have a massive passion for tech education and knowledge sharing. As a vocational training instructor, I turn high-level tech concepts into hands-on learning experiences. Truth be told, I just genuinely love teaching, breaking down complex ideas, and... well, talking all day long! For me, bridging the gap between cutting-edge AI research and engaging education is where the real fun begins.
 
+> **Fun fact:** Yes, my profile picture is a pigeon. It started as a joke during a course, and by now, it has become my official mascot!
+
 # 💻 Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,r,c,java,html,css,js,react,mongodb,mysql,git,docker,gcp,linux" />
 </div>
 
 *The tools I use to build, teach, and occasionally debug for hours.* 🛠️
-
-> **Fun fact:** Yes, my profile picture is a pigeon. It started as a joke during a course, and by now, it has become my official mascot!
 
 # 📫 Let's Connect & Chat
 <div align="left">
